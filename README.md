@@ -13,7 +13,7 @@ Yunus Kayhan: Developer
 
 # Ürün İsmi
 
---EcoMate App--(Telif hakkı araştırılmaktadır. Telif hakkıyla ilgili bir durum da değişime açıktır. Daha önce belirlenen alternatifler içerisinden ürün yeniden adlandıralacaktır. Tüm ekip üyelerinin bilgisi ve onayı dahilinde bu karar alınmıştır)
+--EcoMate App--(Telif hakkı araştırılmaktadır. Telif hakkıyla ilgili bir durum da değişime açıktır. Daha önce belirlenen alternatifler içerisinden ürün yeniden adlandırılacaktır. Tüm ekip üyelerinin bilgisi ve onayı dahilinde bu karar alınmıştır)
 
 ##  Product Backlog URL
 
