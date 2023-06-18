@@ -112,4 +112,3 @@ Anket kısmı kodlanma aşamasındadır(Yunus Kayhan).
 
 
 
-- 
