@@ -119,11 +119,11 @@ Anket kısmı kodlanma aşamasındadır(Yunus Kayhan).
 
 -**Sprint Review katılımcıları**:
 
--Dilan Yavcik,
--İlayda Cengizhan,
--Gizem Derici,
--Kaan Akboğa,
--Yunus Kayhan
+Dilan Yavcik,
+İlayda Cengizhan,
+Gizem Derici,
+Kaan Akboğa,
+Yunus Kayhan.
 
  **Sprint Retrospective:**
 -Roller ile ilgili düzenleme yapılmış, scrum master ve product owner son karar ile kesinleşmiştir.
