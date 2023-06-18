@@ -5,11 +5,17 @@ Takım Flutter 108
 # Ürün ile İlgili Bilgiler
 
 ##  Takım Elemanları
+
 Dilan Yavcik: Scrum Master /  Developer
+
 İlayda Cengizhan: Product Owner/ Developer
+
 Gizem Derici: Developer
+
 Kaan Akboğa: Developer
+
 Yunus Kayhan: Developer
+
 
 # Ürün İsmi
 
