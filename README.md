@@ -22,7 +22,9 @@ Yunus Kayhan: Developer
 ## Ürün Açıklaması
 
 EcoMate App, sürdürülebilirliğe ve geri dönüşüme önem veren kişiler için bir sosyalleşme, bilgi alma platformudur. 
+
 Uygulama kullanıcılarına yaptıkları doğa da sürdürülebilir ve geri dönüşüme dair takip etme, yeni etkinlikler keşfetme, diğerlerinin görüşlerini görme, yakın geri dönüşüm noktalarını tespit etme ve bilgilerini ölçebilecekleri bilgi yarışması imkanı sunar.
+
 Ürün doğaya katkıda bulunmanın yollarını daha istikrarlı ve eğlenceli bir hale dönüştürmeyi hedefler.
 
 
@@ -38,17 +40,30 @@ Uygulama kullanıcılarına yaptıkları doğa da sürdürülebilir ve geri dön
 
   ## Ürün Özellikleri
 
--Geri dönüşüm kutularının konumlarına ulaşabilmek.
--Kullanıcıların sürdürebilirlik ve geri dönüşüm etkinlikleri oluşturabilmesi ve daha büyük organizasyonlardan haberdar olması.
--Kullanıcıların kendi sürdürebilirlik ve geri dönüşüm takvimlerini tutabilmeleri.
--Comminity yaratarak benzer yaşam ilgileri olan kişileri bir araya getirmek.
--Geri dönüşüm ve sürdürebilirlik hakkında bilgilenmeyi eğlenceli şekilde artırmak için bilgi yarışması.
+-Geri dönüşüm kutularının konumlarına ulaşabilmek : Kullanıcının konum bilgilerini girip etrafındaki geri dönüşüm noktalarına ulaşabilmesini sağlamaktadır. 
+
+-Kullanıcıların sürdürebilirlik ve geri dönüşüm etkinlikleri oluşturabilmesi ve daha büyük organizasyonlardan haberdar olması : Uygulama ‘Yeşil Etkinlik Takvimi’ platformu yapılması planlanmaktadır ve çevre dostu topluluk buluşmalarını barındıran çeşitli etkinlikler planlanmaktadır.
+
+-Kendi sürdürebilirlik ve geri dönüşüm takvimlerini tutabilmeleri : Sürdürülebilir Yaşam İlerleme Takvimi yapılması planlanmaktadır böylelikle kullanıcı ilerlemesini, yaptıklarını takvim aracılığı ile kolaylıkla takip edebilecektir.
+
+-Community yaratarak benzer yaşam ilgileri olan kişileri bir araya getirmek : Amaç benzer ilkelere sahip ve uygulamayı ilgilendiren benzer özellikleri kullanan kişilerin birbirleriyle tanışması, iletişim kurmasını sağlamak ve kullanıcı deneyim- eleştiri-önerilerini görebilmek.
+
+Geri dönüşüm ve sürdürebilirlik hakkında bilgilenmeyi eğlenceli şekilde artırmak için bilgi yarışması : Oyunlaştırarak yani eğlenceli hale getirerek ögrenmeyi ve kişinin bilinçlenmesini sağlamak 
+
+Sürdürülebilirlik Not Defteri : Kullanıcının günlük olarak(zaman isteğe bağlı) notlar alabileceği, ilham aldığı proje ya da fikirleri yazabileceği , önceliklerini belirleyebileceği bir kısım.
+
+Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast gibi önerilerde bulunma hedeflenmektedir.(yasal uygunluğa göre eklenecektir. Opsiyoneldir).
+
+
 
 ## Hedef Kitle
 
--Çevreci gönüllüler
--Geri dönüşüm merkezleri çalışanları ve yetkilileri
--Dünya için geri dönüşüme ve sürdürülebilirliğe katkıda bulunmak isteyen herkes
+•Çevreci gönüllüler
+•	Geri dönüşüm merkezleri
+•	Dünyaya katkıda bulunmak isteyen herkes
+•	18-65 yaş arası kullanıcılar
+•	Çevre ile ilgili kurum-kuruluş, dernekler
+•	Belediyeler
 
 ## Juriye Not
 
