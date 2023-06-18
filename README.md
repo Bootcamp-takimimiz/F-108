@@ -65,10 +65,15 @@ Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast
 ## Hedef Kitle
 
 •Çevreci gönüllüler
+
 •	Geri dönüşüm merkezleri
+
 •	Dünyaya katkıda bulunmak isteyen herkes
+
 •	18-65 yaş arası kullanıcılar
+
 •	Çevre ile ilgili kurum-kuruluş, dernekler
+
 •	Belediyeler
 
 ## Juriye Not
