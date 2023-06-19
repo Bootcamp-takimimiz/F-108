@@ -86,9 +86,15 @@ Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast
 
 # Sprint 1
 
+-**Sprint Notları**: Giriş ekranı ikinci bir alternatif olacak şekilde de oluşturulmuştur. Ürün ekran görüntülerinde kodlama ve ekran tasarımı incelenebilir.
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 3 aşama 300 puanlık backlog bulunmaktadır. Her sprinte 100 puan  3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Uygulamaya Giriş ve Özelliklerin Geliştirilmesi**: Backlogumuz 3 aşamaya ayrılmış ve sprint 1 kısmına giriş kısmıyla eşleşmektedir. Uygulamamızın giriş kısmında uygulamaya karar verme, özelliklerini spesifikleştirme(daha önce planlanan uygulamadan vazgeçildiği ve yeni fikir aşamasına geçildiği için bu süreç planlanandan fazla sürmüştür ancak backlog planına uygundur), giriş ve tutorial düzenleme/tasarlama, app ikonu geliştirme yer almaktadır. Bu süreç düzenlenen ve planlanan şekilde ilerlemektedir.
+
+- Uygulama geliştirme başlangıç aşaması yapılacak işlere (task'lere) bölünmüştür.Asana Board'da  gözüken setup (kurulum aşamasındaki) yapılacak işleri (task) gösterirken, completed task tamamlanmış işleri (task)  temsil etmektedir.
   
 - **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir.Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilecektir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
@@ -136,5 +142,11 @@ Yunus Kayhan.
 -Giriş ekranı, bilgi veren tutorial, ve ana ekranın tamamlanması
 -Takvimin kodlarının yazılarak tamamlanması
 
+# Sprint 2
 
+---
+
+# Sprint 3
+
+---
 
