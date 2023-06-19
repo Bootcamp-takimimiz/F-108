@@ -133,14 +133,16 @@ Yunus Kayhan.
 
  **Sprint Retrospective:**
 -Roller ile ilgili düzenleme yapılmış, scrum master ve product owner son karar ile kesinleşmiştir.
+
 -Takım içindeki görev dağılımıyla ilgili tüm developerların takım dışındaki sorumlulukları göz önünde bulundurularak scrum toplantılarında iş bölümü yapılmıştır. Developerlardan gelen önerilerle yeniden düzenlemeye açıktır.
+
 -Takım üyelerinin ekibe uyumluluğu, çalışkanlığı ve üretkenliği oldukça işlevsel olduğuna hem fikir olunarak planlamayla ilgili belirli bir yeniden düzenlemeye gidilmemiştir. Taraflardan birinin değişen durumlarına dair durumlarda değişimlerin söz konusu olacağı ortak kararı alınmıştır.
 
 **Gelecek Sprint Tahmini:**
--Uygulama ismi ve yasal durumlara bağlı değİşimlerin netleşmesi( bülten, uygulama ismi)
--Bilgi Yarışması kısmının kodunun bitirilmesi
--Giriş ekranı, bilgi veren tutorial, ve ana ekranın tamamlanması
--Takvimin kodlarının yazılarak tamamlanması
+-Uygulama ismi ve yasal durumlara bağlı değİşimlerin netleşmesi( bülten, uygulama ismi).
+-Bilgi Yarışması kısmının kodunun bitirilmesi.
+-Giriş ekranı, bilgi veren tutorial, ve ana ekranın tamamlanması.
+-Takvimin kodlarının yazılarak tamamlanması.
 
 # Sprint 2
 
