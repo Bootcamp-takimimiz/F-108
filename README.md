@@ -148,6 +148,20 @@ Yunus Kayhan.
 
 ---
 
+-**Sprint içinde tamamlanması tajmin edilen puan: 100
+
+- **Daily Scrum**: Daily Scrum toplantılarının ortak kararla Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+
+- **Sprint board update**: Sprint board screenshotları:
+
+- - **Ürün Durumu**: Ekran görüntüleri:
+ 
+  - - **Sprint Retrospective:**
+   
+    - ## Product Backlog URL
+
+
+
 # Sprint 3
 
 ---
