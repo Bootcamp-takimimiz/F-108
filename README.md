@@ -148,17 +148,27 @@ Yunus Kayhan.
 
 ---
 
--**Sprint içinde tamamlanması tajmin edilen puan: 100
+-**Sprint içinde tamamlanması tahmin edilen puan: 100
 
-- **Daily Scrum**: Daily Scrum toplantılarının ortak kararla Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+- **Daily Scrum**: Daily Scrum toplantılarının ortak kararla Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+  ![z](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/80c13eb4-8e2b-4c0c-9dc8-17ec3b547458)
+![Uploading y.png…]()
+![v](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/21fb973b-b420-45ef-a4d2-6dfa6eab06cf)
+
+
 
 - **Sprint board update**: Sprint board screenshotları:
+![x](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c12e0bfa-1d99-40bf-983b-72837185f1d6)
 
 - - **Ürün Durumu**: Ekran görüntüleri:
  
   - - **Sprint Retrospective:**
+    - Takım verilen görevleri tamamladı.
+    - Çoğu görev tamamlandığı için  taslak bittikten sonra tasarım tarafına ağırlık vermek kararlaştırıldı.
    
     - ## Product Backlog URL
+    - https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
+      (Product Backlog URL değişmiştir.
 
 
 
