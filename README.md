@@ -170,12 +170,13 @@ Yunus Kayhan.
   - - **Sprint Retrospective:**
     - Takım verilen görevleri tamamladı.
     - Çoğu görev tamamlandığı için  taslak bittikten sonra tasarım tarafına ağırlık vermek kararlaştırıldı.
+    - Grubun iletişimi ve planlaması sürece uygun ilerledi.
    
     - ## Product Backlog URL
     - https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
       (Product Backlog URL değişmiştir.
 
-
+**Gelecek Sprint Tahmini:**Gelecek sprinte bültenin tamamlanması, tasarımsal eksikliklerin tamamlanması, bütün ayrı öğelerin birleştirilmesi planmaktadır. 
 
 # Sprint 3
 
