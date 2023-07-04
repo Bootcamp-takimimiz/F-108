@@ -169,6 +169,16 @@ Yunus Kayhan.
 ![WhatsApp Image 2023-07-02 at 17 49 06](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f63444fb-d9dd-4283-ac81-905918b5d7c0)
 ![WhatsApp Image 2023-07-02 at 17 49 05](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/31260f98-a96b-4528-a2cb-fc860ae8d6db)
 ![WhatsApp Image 2023-07-02 at 17 49 04](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/483fc213-3714-42b1-a31b-9fd3206c319f)
+![WhatsApp Image 2023-07-04 at 01 06 06 (2)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/852b7381-8197-44e4-acfe-306e4e049ec9)
+![WhatsApp Image 2023-07-04 at 01 06 05](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/489fcc18-6d12-42c7-a6ba-77492273faad)
+![WhatsApp Image 2023-07-04 at 01 06 06](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c8c78286-a53e-4ab8-bdf1-aec3cb92d9ed)
+![WhatsApp Image 2023-07-04 at 01 06 06 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/d139f82e-6a0b-4228-9f40-1f2239184e57)
+
+
+
+
+
+
 
 - **Sprint Review**:
 - Alınan Kararlar:
