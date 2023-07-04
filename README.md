@@ -189,18 +189,17 @@ Yunus Kayhan.
 - Geri dönüşüm konumlarının ayrı bölüm olarak eklenmesi(tüm developerlar sürece dahil olabilir)
 Genel Yorum:
 -Çoğu kısım tamamlandığı için daha çok grup çalışmasına, kişilerin öne çıktığı yönlerde kendilerini geliştirebilecek yönlerde çalışmak isteyecekleri daha esnek bir review yapılanmasına gidilmiştir.
-- 
-- 
 
 
   - - **Sprint Retrospective:**
     - Takım verilen görevleri tamamladı.
     - Çoğu görev tamamlandığı için  taslak bittikten sonra tasarım tarafına ağırlık vermek kararlaştırıldı.
+    - Asana 30 günlük deneme süreci olduğu için ücretsiz bir alternatif olan Jiraya geçildi.
     - Grubun iletişimi ve planlaması sürece uygun ilerledi.
    
     - ## Product Backlog URL
     - https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
-      (Product Backlog URL değişmiştir.
+      (Product Backlog URL değişmiştir)
 
 **Gelecek Sprint Tahmini:**Gelecek sprinte bültenin tamamlanması, tasarımsal eksikliklerin tamamlanması, bütün ayrı öğelerin birleştirilmesi ve uygulamanın yarışmaya sunulacak son haline ulaşması planmaktadır. 
 
