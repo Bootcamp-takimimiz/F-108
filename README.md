@@ -170,7 +170,19 @@ Yunus Kayhan.
 ![WhatsApp Image 2023-07-02 at 17 49 05](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/31260f98-a96b-4528-a2cb-fc860ae8d6db)
 ![WhatsApp Image 2023-07-02 at 17 49 04](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/483fc213-3714-42b1-a31b-9fd3206c319f)
 
- 
+- **Sprint Review**:
+- Alınan Kararlar:
+- Firebase konusunda bilgi edinmesi,pratikte uzmanlaşması(Tüm developerlar)
+- Bültenin tamamlanması(Tüm developerların araştırma yapması)
+- Bilgi yarışmasında soruların tamamlanması(Tüm developerlar katkıda bulunabilir)
+- Herkesin kendi üstüne düşen kısımdaki son tasarımsal kısımları tamamlaması
+- Geri dönüşüm konumlarının ayrı bölüm olarak eklenmesi(tüm developerlar sürece dahil olabilir)
+Genel Yorum:
+-Çoğu kısım tamamlandığı için daha çok grup çalışmasına, kişilerin öne çıktığı yönlerde kendilerini geliştirebilecek yönlerde çalışmak isteyecekleri daha esnek bir review yapılanmasına gidilmiştir.
+- 
+- 
+
+
   - - **Sprint Retrospective:**
     - Takım verilen görevleri tamamladı.
     - Çoğu görev tamamlandığı için  taslak bittikten sonra tasarım tarafına ağırlık vermek kararlaştırıldı.
