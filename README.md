@@ -12,7 +12,7 @@ Dilan Yavcik: Scrum Master /  Developer
 
 Gizem Derici: Developer
 
-Kaan Akboğa: Developer
+Kaan Akbuğa: Developer
 
 Yunus Kayhan: Developer
 
