@@ -117,7 +117,7 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1615d53a-42a9-4f0b-
 
 - **Sprint Review**:
 - Alınan Kararlar:
--Kullanıcı giriş sayfaları için alternatif sayfalar oluşturulmuştur(İlayda Cengizhan-Kaan Akboğa).
+-Kullanıcı giriş sayfaları için alternatif sayfalar oluşturulmuştur(İlayda Cengizhan-Kaan Akbuğa).
 Anket kısmı kodlanma aşamasındadır(Yunus Kayhan).
 -Uygulama giriş ekranı(tutorial) metni hazırlanmış, uygulama ikonu ve tutorial görselleri hazırlanma aşamasındadır(Dilan Yavcik).
 -Gizem Derici de düşünülen uygulamalar üzerine araştırma bulguları ile geri dönütler sağlamıştır. Yapılan scrum toplantılarına katılım sağlamıştır
@@ -128,7 +128,7 @@ Anket kısmı kodlanma aşamasındadır(Yunus Kayhan).
 Dilan Yavcik,
 İlayda Cengizhan,
 Gizem Derici,
-Kaan Akboğa,
+Kaan Akbuğa,
 Yunus Kayhan.
 
  **Sprint Retrospective:**
