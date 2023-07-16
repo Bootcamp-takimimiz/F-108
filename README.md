@@ -218,7 +218,7 @@ Genel Yorum:
 
 - **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir(Günlük olarak feedback verildi). Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
-![Web yakalama_16-7-2023_141232_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1551972d-79df-4d74-9116-433a36d9306d)
+
 ![Web yakalama_16-7-2023_1894_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/37ec9c40-f797-4936-b241-542c7d003a18)
 ![Web yakalama_16-7-2023_181153_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/28cd692a-cb95-4117-b882-db11eccf2498)
 ![Web yakalama_16-7-2023_181033_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c3935159-6ed0-492a-abe0-383a54947815)
