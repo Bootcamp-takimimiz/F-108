@@ -226,6 +226,8 @@ Genel Yorum:
 - **Sprint Review**:
 - Tamamlanan Görevler: 
 - 'Sürdürülebilir Marka Önerileri' özelliği ile sürdürülebilir ve geri dönüşüme önem veren markaların derlendiği bir özellik eklendi(Gizem Derici)
+- Uygulamaya girişten sonra gelen Ana Sayfa tamamlandı.(Yunus Kayhan)
+- Uygulamada ki 'Profil Bilgilerim' sayfası tamamlandı.(İlayda Cengizhan)
 - Geri Dönüşüm merkezleri konum özelliği yapıldı.( Geri dönüşüm merkezleri yeri Gizem Derici tarafından bulundu, kod ve tasarım kısmı Kaan Akbuğa tarafından yapılmıştır.)
 - Sürdürülebilir Yaşam ve Geri dönüşüm temalarını barındıran kullanıcıya bilgi vermek amacıyla tasarlanan bülten özelliği tamamlandı.(Gizem Derici)
 - Community özelliği güncellendi.(Firebase kısmı bulunmamaktadır temel düzeyde yapılmıştır -> Yunus Kayhan)
