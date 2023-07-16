@@ -207,13 +207,13 @@ Genel Yorum:
 
 ---
 
--**Sprint Notları**: İstenilen özellikler community özelliğinin niteliği değiştirilmiştir.  Marka önerileri özelliği  ve karbon izi hesaplama özellikleri eklenerek yeniden düzenlenmiştir.
+-**Sprint Notları**: Uygulamanın tüm özellikleri tamamlanmış ve ekipçe kodlanmıştır. Uygulamanın özelliklerinden community özelliğinin niteliği değiştirilmiştir. Eksta olarak uygulamaya Sürdürülebilir Marka Önerileri ve Karbon Ayak İzi Hesaplama özellikleri eklenerek yeniden düzenlenmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: İstenilen çoğu özellik tamamlanmış, community gibi istediğimiz özellikte düzenmese de alternatif olarak yeni özellik eklenmiştir. Grup iletişimi, çalışması ile 2. sprint ile 3. sprint dönemi arasında amaçlanan şekilde uygulama beta şeklinde tamamlanmıştır.
+- **Puan tamamlama mantığı**: İstenilen çoğu özellik tamamlanmış, community ve geri dönüşüm konum girme özelliği yeri tasarım ve kod açısından ilk sprintten farklı olarak yeniden yapılmıştır ve uygyulamaya alternatif olarak yeni özellikler eklenmiştir. Grup iletişimi, çalışması ile 2. sprint ile 3. sprint dönemi arasında amaçlanan şekilde uygulama beta şeklinde tamamlanmıştır.
 
-- **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir.Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilecektir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+- **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir(Günlük olarak feedback verildi). Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
 - **Sprint board update**:
 ![sprintboard1](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c5bf06f5-e313-4960-99b3-e703a8f330f2)
@@ -225,10 +225,16 @@ Genel Yorum:
 
 - **Sprint Review**:
 - Tamamlanan Görevler: 
--Marka özelliği ile sürdürülebilir ve geri dönüşüme önem veren markaların derlendiği bir özellik eklendi. Konum özelliği eklendi(Gizem Derici)
--Anket özelliği tamamlandı.Community özelliği güncellendi.Giriş kısmı paylaşımlı düzenlendi. Bilgi testi tamamlandı.Tüm kodların birleştirilmesi, round metoduyla birbirine bağlılıkları, uygulamanın kullanıma uygun son hale getirildi. Kodlar githuba girildi.(Yunus Kayhan)
+- 'Sürdürülebilir Marka Önerileri' özelliği ile sürdürülebilir ve geri dönüşüme önem veren markaların derlendiği bir özellik eklendi(Gizem Derici)
+- Geri Dönüşüm merkezleri konum özelliği yapıldı.( Geri dönüşüm merkezleri yeri Gizem Derici tarafından bulundu, kod ve tasarım kısmı Kaan Akbuğa tarafından yapılmıştır.)
+- Anket özelliği tamamlandı.
+- Community özelliği güncellendi.(Firebase kısmı bulunmamaktadır temel düzeyde yapılmıştır -> Yunus Kayhan)
+- Giriş kısmı paylaşımlı düzenlendi ve kod süreci tamamlandı.( İlayda Cengizhan-Yunus Kayhan)
+- Sürdürülebilir Yaşam için hap bilgileri barındıran Bilgi testi tamamlandı.( Bilgi testinde bulunan sorular ve cevapları İlayda Cengizhan ve Gizem Derici eklemiştir, kod ve tasarım süreci Yunus Kayhan tarafından yapılmıştır.)
 -Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
--Not defteri,karbon izi hesaplayıcı özellikleri tamamlandı. Giriş kısmı paylaşımlı düzenlendi(İlayda Cengizhan)
+-Not defteri düzenleme ve kod süreci tamamlandı.(İlayda Cengizhan )
+- Uygulamaya ekstra eklenen 'Karbon Ayak İzi Hesaplayıcı' özelliği tamamlandı.(İlayda Cengizhan)
+- Tüm kodların birleştirilmesi, round metoduyla birbirine bağlılıkları, uygulamanın kullanıma uygun son hale getirildi. Kodlar githuba girildi(Ekip üyeleri kodlarını ekip arkadaşımız Yunus Kayhana iletmiştir).(Yunus Kayhan)
 -Tutorial ekranı tamamlandı. Sprint 3 ve ürün teslimi formu ile ürün son teslimi verildi(Dilan Yavcik)
 
 
@@ -238,9 +244,9 @@ Genel Yorum:
 https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
 
  **Sprint Retrospective:**
--Firebase kurulumu sürecinde uygulamanın siber güvenlik kısmında güvenlik zaafiyeti oluşacağı için(verilerin fazlalığı, anonim olmaması) Firebase özelliği kullanılmaması çalışma takımı ile ortak karar verilerek kullanılmaktan vazgeçilmiştir.
+-Firebase kurulumu sürecinde uygulamanın siber güvenlik kısmında güvenlik zaafiyeti oluşacağı için(verilerin fazlalığı, anonim olmaması) Firebase özelliği kullanılamaması çalışma takımı ile ortak karar verilerek kullanılmaktan vazgeçilmiştir.
 
--Marka özelliği ve karbon izi hesaplama özellikleri eklendi.
+- Sürdürülebilir Marka Önerileri özelliği ve Karbon Ayak İzi hesaplama özellikleri eklendi.
 
 -Takıma verilen kodlar tamamlandı.
 
