@@ -227,9 +227,8 @@ Genel Yorum:
 
 
 - **Sprint board update**:
-![sprintboard1](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c5bf06f5-e313-4960-99b3-e703a8f330f2)
-![sprintnboard3](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/bbc3a4ed-36da-4f41-a32d-5823d835e0df)
-![sprintboard2](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/915070f5-b752-4348-bdd6-698aa0c4a5db)
+![Web yakalama_17-7-2023_15925_dyavcik atlassian net](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/b82e0cda-9b3c-410c-9176-f882c02ba789)
+![Web yakalama_17-7-2023_205_dyavcik atlassian net](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/d0505366-e6a1-46a4-b6a8-68e460013e93)
 
 
 - **Ürün Durumu**:
@@ -245,6 +244,9 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6a1669e7-c35a-4d93-
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cfc55405-a2ad-4c9f-8e14-ca79be6b062c
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/63eec022-93e8-4c78-b0de-2bbb2ea655d8
+
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/a5503bf9-f7c7-4e60-960a-c57aaffa2262
 
 ![Screenshot_20230716_223014](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f15de832-3384-4c6c-920b-58ab0700866a)
 ![Screenshot_20230716_223124 (2)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5e83813f-176e-45dc-9573-8e813e8a3b99)
