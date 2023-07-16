@@ -207,3 +207,40 @@ Genel Yorum:
 
 ---
 
+-**Sprint Notları**: İstenilen özellikler community özelliğinin niteliği değiştirilmiştir.  Marka önerileri özelliği  ve karbon izi hesaplama özellikleri eklenerek yeniden düzenlenmiştir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: İstenilen çoğu özellik tamamlanmış, community gibi istediğimiz özellikte düzenmese de alternatif olarak yeni özellik eklenmiştir. Grup iletişimi, çalışması ile 2. sprint ile 3. sprint dönemi arasında amaçlanan şekilde uygulama beta şeklinde tamamlanmıştır.
+
+- **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir.Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilecektir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+
+- **Sprint board update**:
+![sprintboard1](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c5bf06f5-e313-4960-99b3-e703a8f330f2)
+![sprintnboard3](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/bbc3a4ed-36da-4f41-a32d-5823d835e0df)
+![sprintboard2](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/915070f5-b752-4348-bdd6-698aa0c4a5db)
+
+
+- **Ürün Durumu**:
+
+- **Sprint Review**:
+- Tamamlanan Görevler: 
+-Marka özelliği ile sürdürülebilir ve geri dönüşüme önem veren markaların derlendiği bir özellik eklendi. Konum özelliği eklendi(Gizem Derici)
+-Anket özelliği tamamlandı.Community özelliği güncellendi.Giriş kısmı paylaşımlı düzenlendi. Bilgi testi tamamlandı.Tüm kodların birleştirilmesi, round metoduyla birbirine bağlılıkları, uygulamanın kullanıma uygun son hale getirildi. Kodlar githuba girildi.(Yunus Kayhan)
+-Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
+-Not defteri,karbon izi hesaplayıcı özellikleri tamamlandı. Giriş kısmı paylaşımlı düzenlendi(İlayda Cengizhan)
+-Tutorial ekranı tamamlandı. Sprint 3 ve ürün teslimi formu ile ürün son teslimi verildi(Dilan Yavcik)
+
+
+
+- ## Product Backlog URL
+
+https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
+
+ **Sprint Retrospective:**
+-Firebase kurulumu sürecinde uygulamanın siber güvenlik kısmında güvenlik zaafiyeti oluşacağı için(verilerin fazlalığı, anonim olmaması) Firebase özelliği kullanılmaması çalışma takımı ile ortak karar verilerek kullanılmaktan vazgeçilmiştir.
+-Marka özelliği ve karbon izi hesaplama özellikleri eklendi.
+-Takıma verilen kodlar tamamlandı.
+-Grubun iletişim ve çalışma süreci programa uygun ilerled
+
+
