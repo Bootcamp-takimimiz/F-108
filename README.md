@@ -110,10 +110,20 @@ Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast
 - **Ürün Durumu**: Ekran görüntüleri:
 
 
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1615d53a-42a9-4f0b-bd17-f7734594dba4
-![WhatsApp Image 2023-06-18 at 22 04 47](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/355279c0-432a-4003-b571-39ac4e1ec420)
-![WhatsApp Image 2023-06-18 at 22 04 47 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/0df98e54-a4e8-4b75-ab89-1282f589f771)
-![WhatsApp Image 2023-06-18 at 22 04 48](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/a900708b-639e-4bc6-a1e3-2ee42cbd596e)
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/345ce9cd-3eb9-48ff-b08d-7ea10430d13e
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/05d80035-9ddd-44d1-a8ac-776202746f16
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/a61e3647-696d-4e4d-8fa4-b92ac6879cdf
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/e198fd50-1b8b-4196-b1a6-ed0dddd81714
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cffdd974-7704-4aac-bf11-7db8ede1a055
+
+
+
+
 
 - **Sprint Review**:
 - Alınan Kararlar:
