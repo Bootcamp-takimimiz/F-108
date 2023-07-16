@@ -239,8 +239,11 @@ https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
 
  **Sprint Retrospective:**
 -Firebase kurulumu sürecinde uygulamanın siber güvenlik kısmında güvenlik zaafiyeti oluşacağı için(verilerin fazlalığı, anonim olmaması) Firebase özelliği kullanılmaması çalışma takımı ile ortak karar verilerek kullanılmaktan vazgeçilmiştir.
+
 -Marka özelliği ve karbon izi hesaplama özellikleri eklendi.
+
 -Takıma verilen kodlar tamamlandı.
--Grubun iletişim ve çalışma süreci programa uygun ilerled
+
+-Grubun iletişim ve çalışma süreci programa uygun ilerledi.
 
 
