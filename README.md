@@ -232,8 +232,8 @@ Genel Yorum:
 - Giriş kısmı paylaşımlı düzenlendi ve kod süreci tamamlandı.( İlayda Cengizhan-Yunus Kayhan)
 - Sürdürülebilir Yaşam için hap bilgileri barındıran Bilgi testi tamamlandı.( Bilgi testinde bulunan sorular ve cevapları İlayda Cengizhan ve Gizem Derici eklemiştir, kod ve tasarım süreci Yunus Kayhan tarafından yapılmıştır.)
 - Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
--Not defteri düzenleme ve kod süreci tamamlandı.(İlayda Cengizhan )
-- Uygulamaya ekstra eklenen 'Karbon Ayak İzi Hesaplayıcı' özelliği tamamlandı.(İlayda Cengizhan)
+- Not defteri düzenleme ve kod süreci tamamlandı.(İlayda Cengizhan )
+- Uygulamaya ekstra olarak eklenen 'Karbon Ayak İzi Hesaplayıcı' özelliği tamamlandı.(İlayda Cengizhan)
 - Tüm kodların birleştirilmesi, round metoduyla birbirine bağlılıkları, uygulamanın kullanıma uygun son hale getirildi. Kodlar githuba girildi(Ekip üyeleri kodlarını ekip arkadaşımız Yunus Kayhana iletmiştir).(Yunus Kayhan)
 -Tutorial ekranı tamamlandı. Sprint 3 ve ürün teslimi formu ile ürün son teslimi verildi(Dilan Yavcik)
 
