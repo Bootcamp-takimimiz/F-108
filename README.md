@@ -245,11 +245,6 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cfc55405-a2ad-4c9f-
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/132ab03e-fc98-4406-b060-bde505a3f879
 
-
-
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/7f8f31b2-faa0-46bc-97bf-551e053318d9
-
-
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/e20e3db5-ed8e-4962-a0dd-9f22dd0372bd
 
 
