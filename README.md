@@ -1,3 +1,4 @@
+![Screenshot_20230716_220149](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/27d79a1d-0648-41df-b1e9-232d45613a40)
 #""Takım İsmi""
 
 Takım Flutter 108
@@ -232,7 +233,9 @@ Genel Yorum:
 - **Ürün Durumu**:
 
 ![WhatsApp Image 2023-07-15 at 17 44 09](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5696f508-673c-4c3f-a4c7-5c4044d58c80)
-
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/65ed0e9d-9dca-4b5d-bbe2-6d44a6291a3d
+![Uploading Screenshot_20230716_215907.png…]()
+![Uploading Screenshot_20230716_215845.png…]()
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f2eee167-bfb2-4183-916e-263f010acee4
 
@@ -240,13 +243,7 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6a1669e7-c35a-4d93-
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cfc55405-a2ad-4c9f-8e14-ca79be6b062c
 
-
-
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/132ab03e-fc98-4406-b060-bde505a3f879
-
-
-
-
 
 
 
