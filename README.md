@@ -159,7 +159,7 @@ Yunus Kayhan.
 
 
 - **Daily Scrum**: Daily Scrum toplantılarının ortak kararla Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
-  ![z](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/80c13eb4-8e2b-4c0c-9dc8-17ec3b547458)
+
 ![Uploading y.png…]()
 ![v](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/21fb973b-b420-45ef-a4d2-6dfa6eab06cf)
 ![Ekran görüntüsü 2023-07-03 172453](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5116fd78-8c21-4fd8-afa9-60c897534825)
