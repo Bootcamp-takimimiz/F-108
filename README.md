@@ -267,7 +267,7 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/a5503bf9-f7c7-4e60-
 - Uygulamada ki 'Profil Bilgilerim' sayfası tamamlandı.(İlayda Cengizhan)
 - Geri Dönüşüm merkezleri konum özelliği yapıldı.( Geri dönüşüm merkezleri yeri Gizem Derici tarafından bulundu, kod ve tasarım kısmı Kaan Akbuğa tarafından yapılmıştır.)
 - Sürdürülebilir Yaşam ve Geri dönüşüm temalarını barındıran kullanıcıya bilgi vermek amacıyla tasarlanan bülten özelliği tamamlandı.(Gizem Derici)
-- Community özelliği güncellendi.(Firebase kısmı bulunmamaktadır temel düzeyde yapılmıştır -> Yunus Kayhan)
+- Community özelliği güncellendi.(Firebase kısmı bulunmamaktadır temel düzeyde yapılmıştır -> İlayda Cengizhan-Kaan Akbuğa)
 - Giriş kısmı paylaşımlı düzenlendi ve kod süreci tamamlandı.( İlayda Cengizhan-Yunus Kayhan)
 - Sürdürülebilir Yaşam için hap bilgileri barındıran Bilgi testi tamamlandı.( Bilgi testinde bulunan sorular ve cevapları İlayda Cengizhan ve Gizem Derici eklemiştir, kod ve tasarım süreci Yunus Kayhan tarafından yapılmıştır.)
 - Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
