@@ -294,7 +294,7 @@ https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
   
 - F-108 takımı iletişim ve çalışma süreci programına uygun ilerledi.
 
-- Takımın yaratıcılığının yüksek olması ve çalışma azminden kaynaklı planlanan uygulanan versiyonundan daha geliştirilmiş bir beta versiyonu ile Bootcamp süreci tamamladı.
+- Takımın yaratıcılığının yüksek olması ve çalışma azmi bootcamp sürecine olumlu katkıda bulundu. Hedeflenen uygulamadan daha geliştirilmiş bir beta versiyonu ile Bootcamp süreci tamamlandı.
 
 
 
