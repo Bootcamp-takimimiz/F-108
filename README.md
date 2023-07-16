@@ -235,8 +235,10 @@ Genel Yorum:
 - **Ürün Durumu**:
 
 ![WhatsApp Image 2023-07-15 at 17 44 09](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5696f508-673c-4c3f-a4c7-5c4044d58c80)
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/65ed0e9d-9dca-4b5d-bbe2-6d44a6291a3d
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f2eee167-bfb2-4183-916e-263f010acee4
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cadc2d8e-71a3-499b-a3ac-d04c3aa41884
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/8f6506e0-8ab5-48b3-8200-9690c2b87f9a
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6a1669e7-c35a-4d93-b162-c4f319a7e53b
 
