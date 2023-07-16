@@ -237,7 +237,6 @@ Genel Yorum:
 
 ![WhatsApp Image 2023-07-15 at 17 44 09](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5696f508-673c-4c3f-a4c7-5c4044d58c80)
 
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/967333fa-4d27-4392-a068-643315ffc41e
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f2eee167-bfb2-4183-916e-263f010acee4
 
