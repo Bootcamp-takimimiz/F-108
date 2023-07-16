@@ -244,7 +244,7 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6a1669e7-c35a-4d93-
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cfc55405-a2ad-4c9f-8e14-ca79be6b062c
 
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/132ab03e-fc98-4406-b060-bde505a3f879
+
 
 ![Screenshot_20230716_223014](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f15de832-3384-4c6c-920b-58ab0700866a)
 ![Screenshot_20230716_223124 (2)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5e83813f-176e-45dc-9573-8e813e8a3b99)
