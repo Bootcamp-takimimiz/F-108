@@ -110,7 +110,9 @@ Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast
 - **Ürün Durumu**: Ekran görüntüleri:
 
 
+![WhatsApp Image 2023-06-20 at 21 29 14](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/83ade8b0-c8bd-4141-813e-8b0b2e998638)
 
+![WhatsApp Image 2023-06-20 at 21 29 14](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/12e8d5ca-34cc-42da-81ac-78bc0b3a6c73)
 
 
 
