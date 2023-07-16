@@ -1,4 +1,4 @@
-![Screenshot_20230716_220149](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/27d79a1d-0648-41df-b1e9-232d45613a40)
+
 #""Takım İsmi""
 
 Takım Flutter 108
