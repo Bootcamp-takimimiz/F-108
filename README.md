@@ -236,9 +236,6 @@ Genel Yorum:
 
 ![WhatsApp Image 2023-07-15 at 17 44 09](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5696f508-673c-4c3f-a4c7-5c4044d58c80)
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/65ed0e9d-9dca-4b5d-bbe2-6d44a6291a3d
-![Screenshot_20230716_215907](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6c92eb7b-a8c5-4e68-84b0-b70f90215d5b)
-![Screenshot_20230716_215845](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cb0fe3b4-9cc8-493c-8531-6b43e642002e)
-
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f2eee167-bfb2-4183-916e-263f010acee4
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6a1669e7-c35a-4d93-b162-c4f319a7e53b
