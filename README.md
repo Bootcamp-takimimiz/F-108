@@ -227,11 +227,11 @@ Genel Yorum:
 - Tamamlanan Görevler: 
 - 'Sürdürülebilir Marka Önerileri' özelliği ile sürdürülebilir ve geri dönüşüme önem veren markaların derlendiği bir özellik eklendi(Gizem Derici)
 - Geri Dönüşüm merkezleri konum özelliği yapıldı.( Geri dönüşüm merkezleri yeri Gizem Derici tarafından bulundu, kod ve tasarım kısmı Kaan Akbuğa tarafından yapılmıştır.)
-- Anket özelliği tamamlandı.
+- Sürdürülebilir Yaşam ve Geri dönüşüm temalarını barındıran kullanıcıya bilgi vermek amacıyla tasarlanan bülten özelliği tamamlandı.(Gizem Derici)
 - Community özelliği güncellendi.(Firebase kısmı bulunmamaktadır temel düzeyde yapılmıştır -> Yunus Kayhan)
 - Giriş kısmı paylaşımlı düzenlendi ve kod süreci tamamlandı.( İlayda Cengizhan-Yunus Kayhan)
 - Sürdürülebilir Yaşam için hap bilgileri barındıran Bilgi testi tamamlandı.( Bilgi testinde bulunan sorular ve cevapları İlayda Cengizhan ve Gizem Derici eklemiştir, kod ve tasarım süreci Yunus Kayhan tarafından yapılmıştır.)
--Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
+- Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
 -Not defteri düzenleme ve kod süreci tamamlandı.(İlayda Cengizhan )
 - Uygulamaya ekstra eklenen 'Karbon Ayak İzi Hesaplayıcı' özelliği tamamlandı.(İlayda Cengizhan)
 - Tüm kodların birleştirilmesi, round metoduyla birbirine bağlılıkları, uygulamanın kullanıma uygun son hale getirildi. Kodlar githuba girildi(Ekip üyeleri kodlarını ekip arkadaşımız Yunus Kayhana iletmiştir).(Yunus Kayhan)
