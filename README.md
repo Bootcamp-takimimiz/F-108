@@ -211,7 +211,7 @@ Genel Yorum:
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
-- **Puan tamamlama mantığı**: İstenilen çoğu özellik tamamlanmış, community ve geri dönüşüm konum girme özelliği yeri tasarım ve kod açısından ilk sprintten farklı olarak yeniden yapılmıştır ve uygyulamaya alternatif olarak yeni özellikler eklenmiştir. Grup iletişimi, çalışması ile 2. sprint ile 3. sprint dönemi arasında amaçlanan şekilde uygulama beta şeklinde tamamlanmıştır.
+- **Puan tamamlama mantığı**: İstenilen çoğu özellik tamamlanmış, community ve geri dönüşüm konum girme özelliği yeri tasarım ve kod açısından ilk sprintten farklı olarak yeniden yapılmıştır ve uygulamaya alternatif olarak yeni özellikler eklenmiştir. Grup iletişimi, çalışması ile 2. sprint ile 3. sprint dönemi arasında amaçlanan şekilde uygulama beta şeklinde tamamlanmıştır.
 
 - **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir(Günlük olarak feedback verildi). Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
