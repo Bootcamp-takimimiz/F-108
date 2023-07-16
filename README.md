@@ -113,7 +113,9 @@ Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast
 
 ![WhatsApp Image 2023-06-20 at 21 29 14](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/83ade8b0-c8bd-4141-813e-8b0b2e998638)
 ![WhatsApp Image 2023-06-18 at 22 04 47 (2)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1aa34c02-4dc3-4ab8-95eb-78aa8d16c7a8)
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/330bb1a2-eb19-439a-a8b4-549f07cdc186
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/8ce997a4-f484-44fa-b9fb-f80e1f68d395
+
+
 
 
 
@@ -246,6 +248,12 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cfc55405-a2ad-4c9f-
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/132ab03e-fc98-4406-b060-bde505a3f879
 
 https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/e20e3db5-ed8e-4962-a0dd-9f22dd0372bd
+![Screenshot_20230716_223014](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f15de832-3384-4c6c-920b-58ab0700866a)
+![Screenshot_20230716_223124 (2)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5e83813f-176e-45dc-9573-8e813e8a3b99)
+![Screenshot_20230716_220149 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/cbb81511-d575-4058-b762-72dab0c79222)
+![Screenshot_20230716_215907 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/ce56e147-3a16-4eee-b2b5-39a8619d45d5)
+![Screenshot_20230716_215845 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/48b7af64-9f64-4545-97c5-879691f1b186)
+![Screenshot_20230716_221443](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/2e5b6203-8ea3-4353-8487-7f27dbef5919)
 
 
 
