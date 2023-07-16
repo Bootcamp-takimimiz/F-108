@@ -165,6 +165,8 @@ Yunus Kayhan.
 - **Sprint board update**: Sprint board screenshotları:
 ![x](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c12e0bfa-1d99-40bf-983b-72837185f1d6)
 
+
+
 - - **Ürün Durumu**: Ekran görüntüleri:
   - ![WhatsApp Image 2023-07-02 at 17 49 07](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5f735ea6-64aa-42b1-aa1c-cebe84068b99)
 ![WhatsApp Image 2023-07-02 at 17 49 06](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/f63444fb-d9dd-4283-ac81-905918b5d7c0)
@@ -174,11 +176,9 @@ Yunus Kayhan.
 ![WhatsApp Image 2023-07-04 at 01 06 05](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/489fcc18-6d12-42c7-a6ba-77492273faad)
 ![WhatsApp Image 2023-07-04 at 01 06 06](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c8c78286-a53e-4ab8-bdf1-aec3cb92d9ed)
 ![WhatsApp Image 2023-07-04 at 01 06 06 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/d139f82e-6a0b-4228-9f40-1f2239184e57)
-
-
-
-
-
+![Screenshot_20230716_215845](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/271ccb7a-25ae-434d-ad8b-8db92ea20e37)
+![Screenshot_20230716_215907](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1d11356b-0af7-4dd3-8d19-2a73aa30ab1f)
+![Screenshot_20230716_220149](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/45e9fc13-d240-4929-b79c-0f780738be22)
 
 
 - **Sprint Review**:
