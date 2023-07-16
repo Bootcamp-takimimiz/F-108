@@ -215,6 +215,14 @@ Genel Yorum:
 
 - **Daily Scrum**: Daily Scrum toplantılarının erişim kolaylığı sebebiyle Whatsapp üzerinden yapılmasına karar verilmiştir(Günlük olarak feedback verildi). Toplantı yapılan haftanın iki günü ise (pazar ve çarşamba. Grup birliği ile değişikliklere açıktır) discord üzerinden toplantılar gerçekleştirilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 
+![Web yakalama_16-7-2023_141232_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1551972d-79df-4d74-9116-433a36d9306d)
+![Web yakalama_16-7-2023_1894_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/37ec9c40-f797-4936-b241-542c7d003a18)
+![Web yakalama_16-7-2023_181153_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/28cd692a-cb95-4117-b882-db11eccf2498)
+![Web yakalama_16-7-2023_181033_web whatsapp com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c3935159-6ed0-492a-abe0-383a54947815)
+![Web yakalama_16-7-2023_21242_discord com](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/7a589db0-a9cb-4056-b221-c198d7c0518c)
+
+
+
 - **Sprint board update**:
 ![sprintboard1](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c5bf06f5-e313-4960-99b3-e703a8f330f2)
 ![sprintnboard3](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/bbc3a4ed-36da-4f41-a32d-5823d835e0df)
@@ -222,6 +230,16 @@ Genel Yorum:
 
 
 - **Ürün Durumu**:
+
+
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/da4f42ff-f6b9-4538-ba3b-fe48f590d334
+![WhatsApp Image 2023-07-15 at 17 44 09](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5696f508-673c-4c3f-a4c7-5c4044d58c80)
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/7940474b-99ee-4b19-b659-d6e46e7984e1
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/6680c218-6a68-4c1b-968f-3480467edee3
+
+
+
+
 
 - **Sprint Review**:
 - Tamamlanan Görevler: 
