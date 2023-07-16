@@ -176,9 +176,7 @@ Yunus Kayhan.
 ![WhatsApp Image 2023-07-04 at 01 06 05](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/489fcc18-6d12-42c7-a6ba-77492273faad)
 ![WhatsApp Image 2023-07-04 at 01 06 06](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/c8c78286-a53e-4ab8-bdf1-aec3cb92d9ed)
 ![WhatsApp Image 2023-07-04 at 01 06 06 (1)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/d139f82e-6a0b-4228-9f40-1f2239184e57)
-![Screenshot_20230716_215845](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/271ccb7a-25ae-434d-ad8b-8db92ea20e37)
-![Screenshot_20230716_215907](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1d11356b-0af7-4dd3-8d19-2a73aa30ab1f)
-![Screenshot_20230716_220149](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/45e9fc13-d240-4929-b79c-0f780738be22)
+
 
 
 - **Sprint Review**:
