@@ -113,7 +113,7 @@ Sürdürülebilir yaşam bilgi formu : Kullanıcıya video, yazı-makale-podcast
 
 ![WhatsApp Image 2023-06-20 at 21 29 14](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/83ade8b0-c8bd-4141-813e-8b0b2e998638)
 ![WhatsApp Image 2023-06-18 at 22 04 47 (2)](https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/1aa34c02-4dc3-4ab8-95eb-78aa8d16c7a8)
-https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/8ce997a4-f484-44fa-b9fb-f80e1f68d395
+https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/5254893c-19be-4dcd-8ba7-b3193a8bb7e4
 
 
 
