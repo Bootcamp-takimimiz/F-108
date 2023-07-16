@@ -206,7 +206,7 @@ Genel Yorum:
 
 ---
 
--**Sprint Notları**: Uygulamanın tüm özellikleri tamamlanmış ve ekipçe kodlanmıştır. Uygulamanın özelliklerinden community özelliğinin niteliği değiştirilmiştir. Eksta olarak uygulamaya Sürdürülebilir Marka Önerileri ve Karbon Ayak İzi Hesaplama özellikleri eklenerek yeniden düzenlenmiştir.
+-**Sprint Notları**: Uygulamanın tüm özellikleri tamamlanmış ve ekipçe kodlanmıştır. Uygulamanın özelliklerinden community özelliğinin niteliği değiştirilmiştir. Eksta olarak uygulamaya Sürdürülebilir Marka Önerileri , Karbon Ayak İzi Hesaplama ve kullanıcının aktifliğini ölçen özellikler eklenerek yeniden düzenlenmiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 
@@ -261,6 +261,7 @@ https://github.com/Bootcamp-takimimiz/F-108/assets/135125948/132ab03e-fc98-4406-
 - Giriş kısmı paylaşımlı düzenlendi ve kod süreci tamamlandı.( İlayda Cengizhan-Yunus Kayhan)
 - Sürdürülebilir Yaşam için hap bilgileri barındıran Bilgi testi tamamlandı.( Bilgi testinde bulunan sorular ve cevapları İlayda Cengizhan ve Gizem Derici eklemiştir, kod ve tasarım süreci Yunus Kayhan tarafından yapılmıştır.)
 - Takvim ve  etkinlik takvimi özelliği yapıldı(Kaan Akbuğa)
+- Ekstra Özellik olarak Kullanıcının uygulamayı aktif şekilde kullanmasını sağlamak ve motive etmek için tebrik mesajının gönderildiği alan tamamlanmıştır.(Kaan Akbuğa)
 - Not defteri düzenleme ve kod süreci tamamlandı.(İlayda Cengizhan )
 - Uygulamaya ekstra olarak eklenen 'Karbon Ayak İzi Hesaplayıcı' özelliği tamamlandı.(İlayda Cengizhan)
 - Tüm kodların birleştirilmesi, round metoduyla birbirine bağlılıkları, uygulamanın kullanıma uygun son hale getirildi. Kodlar githuba girildi(Ekip üyeleri kodlarını ekip arkadaşımız Yunus Kayhana iletmiştir).(Yunus Kayhan)
@@ -274,7 +275,7 @@ https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
  **Sprint Retrospective:**
 -Firebase kurulumu sürecinde uygulamanın siber güvenlik kısmında güvenlik zaafiyeti oluşacağı için(verilerin fazlalığı, anonim olmaması) Firebase özelliği kullanılamaması çalışma takımı ile ortak karar verilerek kullanılmaktan vazgeçilmiştir.
 
-- Sürdürülebilir Marka Önerileri özelliği ve Karbon Ayak İzi hesaplama özellikleri eklendi.
+- Sürdürülebilir Marka Önerileri özelliği, Karbon Ayak İzi hesaplama ve kullanıcı aktifliği ölçme özellikleri eklendi.
 - Takıma verilen kodlar tamamlandı.
 - Grubun iletişim ve çalışma süreci programa uygun ilerledi.
 
