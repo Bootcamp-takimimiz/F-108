@@ -248,9 +248,8 @@ https://dyavcik.atlassian.net/jira/software/projects/KAN/boards/1
 -Firebase kurulumu sürecinde uygulamanın siber güvenlik kısmında güvenlik zaafiyeti oluşacağı için(verilerin fazlalığı, anonim olmaması) Firebase özelliği kullanılamaması çalışma takımı ile ortak karar verilerek kullanılmaktan vazgeçilmiştir.
 
 - Sürdürülebilir Marka Önerileri özelliği ve Karbon Ayak İzi hesaplama özellikleri eklendi.
+- Takıma verilen kodlar tamamlandı.
+- Grubun iletişim ve çalışma süreci programa uygun ilerledi.
 
--Takıma verilen kodlar tamamlandı.
-
--Grubun iletişim ve çalışma süreci programa uygun ilerledi.
 
 
